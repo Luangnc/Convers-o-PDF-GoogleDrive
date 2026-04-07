@@ -1,5 +1,5 @@
 # Conversor-PDF-GoogleDrive
-Faz a conversão de ficheiros PDF online para o Google Drive utilizando Google collab.
+Faz a conversão de ficheiros PDF online para o Google Drive utilizando Google colab.
 
 # 1. Abrir o Colab
 Acesse: https://colab.research.google.com
